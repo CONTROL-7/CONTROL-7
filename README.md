@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm Decemberist — your friendly neighborhood zero-trust defender 🛡️✨
+# 👨‍💻 Hey there, I'm Decemberist.
 
 Security-obsessed 🔒, and currently auditing systems to find flaws before the bad actors do. I turn complex network packets into defensive strategies, chaotic server logs into secure baselines, and open-source intelligence into ironclad defenses.
 
