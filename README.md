@@ -1,12 +1,12 @@
 # 👨‍💻 Hey there, I'm Decemberist — your friendly neighborhood zero-trust defender 🛡️✨
 
-Caffeine-powered ☕, security-obsessed 🔒, and currently auditing systems to find flaws before the bad actors do. I turn complex network packets into defensive strategies, chaotic server logs into secure baselines, and open-source intelligence into ironclad defenses.
+Security-obsessed 🔒, and currently auditing systems to find flaws before the bad actors do. I turn complex network packets into defensive strategies, chaotic server logs into secure baselines, and open-source intelligence into ironclad defenses.
 
 ## 🔎 About Me:
 
 * **Cybersecurity Engineer | Penetration Tester | Secure Code Architect** 🧠
 * 🛡️ Passionate about proactive defense, digital forensics, and infrastructure hardening.
-* ⚙️ Specialized in **offensive security, active directory auditing, and secure web architectures** — always hungry to learn more.
+* ⚙️ Specialized in **offensive security, active directory auditing, and secure web architectures**.
 * 🛠️ Kali Linux is my operating system of choice. `Ctrl + C` is my favorite interruption.
 * 💬 Always open to collaborating on cool security tools, CTFs, or talking about anything tech — or threat intelligence.
 * 🎯 **Fun fact:** I analyze packet captures for fun, and I believe network bugs are just unauthorized features... until they break production.
